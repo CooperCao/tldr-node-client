@@ -180,6 +180,9 @@ npm install -g tldr
 ```
 For further context, take a look at this [issue](https://github.com/tldr-pages/tldr-node-client/issues/179)
 
+- 如果网络异常，可以直接拷贝[tldr](http://myrepo/assets/tldr.zip)解压到.tldr\cache下。
+- 增加config.lang配置，在没有环境变量的情况下使用
+
 #### Colors under Cygwin
 
 Colors can't be shown under Mintty or PuTTY, because the dependency `colors.js` has a bug.

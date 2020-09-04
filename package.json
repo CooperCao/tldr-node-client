@@ -51,24 +51,24 @@
   },
   "dependencies": {
     "chalk": "^2.4.2",
-    "commander": "^2.20.0",
-    "fs-extra": "^8.0.1",
-    "glob": "^7.1.4",
-    "lodash": "^4.17.13",
+    "commander": "^2.20.3",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.6",
+    "lodash": "^4.17.20",
     "marked": "^0.8.2",
     "ms": "^2.1.2",
     "natural": "^0.6.3",
     "node-unzip-2": "^0.2.8",
     "ora": "^3.4.0",
-    "request": "^2.88.0"
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
-    "husky": "^2.4.1",
+    "husky": "^2.7.0",
     "mocha": "^6.2.3",
-    "nyc": "^15.0.1",
+    "nyc": "^15.1.0",
     "should": "^13.2.3",
-    "sinon": "^7.3.2"
+    "sinon": "^7.5.0"
   },
   "husky": {
     "hooks": {

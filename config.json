@@ -38,5 +38,6 @@
       "exampleToken": "green, bold, bgBlack"
     }
   },
-  "theme": "simple"
+  "theme": "simple",
+  "lang":  "zh"
 }
